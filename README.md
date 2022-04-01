@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nikhilsaxena835
-- 👀 I’m interested in ... learning software development
+- 👀 I’m interested in ... learning and getting experience in software development
 - 🌱 I’m currently learning ... machine learning and Django
 - 💞️ I’m looking to collaborate on ... open source projects
 - 📫 How to reach me ... email or message both are fine
