@@ -10,6 +10,12 @@
   Open-source projects and exciting software development opportunities.  
 - 📫 **How to reach me:**  
   Feel free to send me an email or a message—both work!
+- **Check out my IO:**
+  
+     https://nikhilsaxena835.github.io/
+  
+     https://nikhilsaxena835.github.io/ref_list.html
+  
 
 ---
 
