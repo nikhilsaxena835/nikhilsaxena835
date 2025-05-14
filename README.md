@@ -3,15 +3,11 @@
 
 ### 👀 About Me  
 - 🔭 **I’m interested in:**  
-  Learning and gaining hands-on experience in software development.  
-- 🌱 **Currently learning:**  
-  Systems programming and Machine Learning (ML).  
-- 💞️ **Looking to collaborate on:**  
-  Open-source projects and exciting software development opportunities.  
+  Building system softwares, reading on computer architecture.     
 - 📫 **How to reach me:**  
-  Feel free to send me an email or a message—both work!
+  Feel free to send me an email!
 - **Check out my IO:**
-  
+ 
      https://nikhilsaxena835.github.io/
   
      https://nikhilsaxena835.github.io/ref_list.html
